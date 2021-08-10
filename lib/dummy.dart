@@ -36,7 +36,7 @@ final List<Products> products = [
   ),
   Products(
     20,
-    Colors.grey,
+    Colors.pinkAccent,
     'https://us.ecco.com/dw/image/v2/BCNL_PRD/on/demandware.static/-/Sites-ecco/default/dw7567a723/productimages/203123-01592-outside.jpg?sw=600&sh=600&sm=fit&q=75g',
     'Skechers Basket',
     265,
